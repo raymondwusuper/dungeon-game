@@ -13,8 +13,8 @@ pip3 install numpy tcod
 ```
 This may encounter issues with version numbers, so be warned.
 ## About
-This game has infinite floors, and you can obtain more overpowered items and gear as you go on. This comes at a cost, because the monsters that spawn also get stronger. </br>
-You can add your own custom monsters and items and equipment. Just copy-paste existing equipment (code located near the end of the file), tweak some parameters, and add spawn rates in the map right under. </br>
+This game has **infinite** floors, and you can obtain more overpowered items and gear as you go on. This comes at a cost, because the monsters that spawn also get stronger. </br>
+**You can add your own custom monsters and items and equipment. Just copy-paste existing equipment (code located near the end of the file), tweak some parameters, and add spawn rates in the map right under.** </br>
 Upon level up, you can select the stat which you want to increase. </br>
 Modifications to the code can be done by changing the code in your IDE of choice.
 ## Controls
